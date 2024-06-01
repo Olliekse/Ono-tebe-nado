@@ -28,3 +28,5 @@ The project consists of a home page with a header, sections, and a footer. It in
 - No additional frameworks or libraries were used in this project.
 
 ## Usage
+![127 0 0 1_5500_Ono-tebe-nado_](https://github.com/Olliekse/Ono-tebe-nado/assets/123179922/663c639e-9352-465f-85d3-31b0ec0e3e58)
+
